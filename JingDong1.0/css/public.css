@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+html, body{
+	font-family: Microsoft YaHei, iconfont;
+	height: 100%;
+}
+
+body{
+    background: #f6f6f6;
+}
+
+ol, li{
+	list-style-type: none;
+}
+
+a, a:hover, a:visited{
+	text-decoration: none;
+}
